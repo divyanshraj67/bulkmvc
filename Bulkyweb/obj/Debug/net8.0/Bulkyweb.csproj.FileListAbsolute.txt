@@ -28,3 +28,4 @@ C:\Users\DivyanshRaj\projects\bulkmvc\Bulkyweb\obj\Debug\net8.0\refint\Bulkyweb.
 C:\Users\DivyanshRaj\projects\bulkmvc\Bulkyweb\obj\Debug\net8.0\Bulkyweb.pdb
 C:\Users\DivyanshRaj\projects\bulkmvc\Bulkyweb\obj\Debug\net8.0\Bulkyweb.genruntimeconfig.cache
 C:\Users\DivyanshRaj\projects\bulkmvc\Bulkyweb\obj\Debug\net8.0\ref\Bulkyweb.dll
+C:\Users\DivyanshRaj\projects\bulkmvc\Bulkyweb\obj\Debug\net8.0\Bulkyweb.sourcelink.json

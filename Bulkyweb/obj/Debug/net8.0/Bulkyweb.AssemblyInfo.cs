@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bulkyweb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41ca6e572ae11f8ddbe9ff612c379463182ae953")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bulkyweb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bulkyweb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
